@@ -24,7 +24,4 @@ An educational **x86-based operating system** developed as part of the Operating
 - **Concepts:** Paging, Segmentation, Operating System Fundamentals
 - **Other Tools:** Kernel Programming, Git, GitHub
 
----
-
-## 📁 Project Structure
 
